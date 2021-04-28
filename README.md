@@ -2,7 +2,7 @@ Automatic addding scan targets to WVS prior to lastest version 14
 
 Please change to your wvs mgmt url in script "https://acunetix_url:3443"
 
-- 1. Add urls to file'wvs_url.xls'
+- 1 Add urls to file'wvs_url.xls'
 (Just one column with url)
 
 usage:
