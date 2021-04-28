@@ -6,7 +6,7 @@ Please change to your wvs mgmt url in script "https://acunetix_url:3443"
 (Just one column with url)
 
 usage:
-- 2. Edit wvs_auto_scan.py and replace to your credentials
+- 2 Edit wvs_auto_scan.py and replace to your credentials
 u = 'demo@demo.com'
 p = 'pa$$word123'
 
